@@ -44,7 +44,7 @@ TEST FRONTEND
 ## Instalation
 
 :ballot_box_with_check: Para clonar o projeto
-`git clone https://github.com/humbertoromanojr/`
+`git clone https://github.com/humbertoromanojr/cryptocoins`
 
 :ballot_box_with_check: Instalação do node_modules
 `npm or yarn install`
