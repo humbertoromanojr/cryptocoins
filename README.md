@@ -1,44 +1,79 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+<br>
+  
+<br>
+<br>
+TEST FRONTEND
+</h1>
 
-## Available Scripts
 
-In the project directory, you can run:
+> Status do Projeto: Concluído :guitar: JR Dev :guitar:
 
-### `yarn start`
+![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Badge](https://img.shields.io/github/issues/humbertoromanojr/mylicenses?style=plastic)
+![Badge](https://img.shields.io/github/forks/humbertoromanojr/mylicenses?style=plastic)
+![Badge](https://img.shields.io/github/stars/humbertoromanojr/mylicenses?style=plastic)
+![Badge](https://img.shields.io/github/license/humbertoromanojr/mylicenses?style=plastic)
+![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fmylicenses)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+## About Project
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## FRONT-END
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
+-   [ReactJS](https://reactjs.org/) :sparkling_heart:
+-   [React Router](https://github.com/ReactTraining/react-router)
+-   [Styled components](https://www.styled-components.com/)
+-   [Axios](https://github.com/axios/axios)
+-   [History](https://www.npmjs.com/package/history)
+-   [React Toastify](https://fkhadra.github.io/react-toastify/)
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [Unform](https://github.com/Rocketseat/unform)
+-   [Date-fns](https://date-fns.org/)
+-   [Material UI](https://material-ui.com/)
+-   [React Icons](https://react-icons.github.io/react-icons/)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Note: Nem todas as bibliotecas eu usei nesse projeto, mais tem em outros projetos aqui mesmo no github, tenho exemplos como por exemplo o gympoint :ok_hand:.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Instalation
+:ballot_box_with_check: Para clonar o projeto
+`git clone https://github.com/humbertoromanojr/`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:ballot_box_with_check: Instalação do node_modules
+`npm or yarn install`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+:ballot_box_with_check: Para rodar a aplicação
+`npm or yarn start`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Sources
+- [ModalContext](https://nainacodes.com/blog/create-an-accessible-and-reusable-react-modal)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Demonstration
+
+<h1 align="center">
+  
+</h1>
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
+
+## Author
+<img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" width="80" alt="linkedin.com/in/junior-dev">
+:guitar: JR Dev :guitar:
+<br />
+
+:small_orange_diamond: LinkedIn: https://www.linkedin.com/in/junior-dev <br />
+:small_orange_diamond: GitLab: https://gitlab.com/hjrdev <br />
+:e-mail:: astronomi@gmail.com <br />
+<br />
+
+Made with :heart: and lots of animation by :guitar: JR Dev :guitar:
