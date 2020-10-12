@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://i.ibb.co/d7yCMJV/cryptocurrency.png" width="400" alt="cryptocurrency" border="0">
+<img src="https://i.ibb.co/z77trwr/Bitcoin-Factory-Crypto-Gif.gif" alt="Uma fábrica de cryptomoeda, demostrado na imagem, sempre reaparecendo as moedas infinitas." border="0">
 <br>
 <br>
 TEST FRONTEND
@@ -54,13 +54,14 @@ TEST FRONTEND
 
 
 ## Sources
+
 - [ModalContext](https://nainacodes.com/blog/create-an-accessible-and-reusable-react-modal)
 
 
 ## Demonstration
 
 <h1 align="center">
-  
+
 </h1>
 
 
@@ -69,13 +70,14 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 
 ## Author
+
 <img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" width="80" alt="linkedin.com/in/junior-dev">
 :guitar: JR Dev :guitar:
 <br />
-
+<br />
 :small_orange_diamond: LinkedIn: https://www.linkedin.com/in/junior-dev <br />
 :small_orange_diamond: GitLab: https://gitlab.com/hjrdev <br />
 :e-mail:: astronomi@gmail.com <br />
 <br />
-
+<br />
 Made with :heart: and lots of animation by :guitar: JR Dev :guitar:
