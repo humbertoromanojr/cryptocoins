@@ -1,21 +1,21 @@
 <h1 align="center">
 <br>
-  
+  <img src="https://i.ibb.co/d7yCMJV/cryptocurrency.png" width="400" alt="cryptocurrency" border="0">
 <br>
 <br>
 TEST FRONTEND
 </h1>
 
 
-> Status do Projeto: Concluído :guitar: JR Dev :guitar:
+> Status do Projeto: 🚧 🚧 🚧  Em andamento - 🚧 🚧 🚧  :guitar: JR Dev :guitar:
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
-![Badge](https://img.shields.io/github/issues/humbertoromanojr/mylicenses?style=plastic)
-![Badge](https://img.shields.io/github/forks/humbertoromanojr/mylicenses?style=plastic)
-![Badge](https://img.shields.io/github/stars/humbertoromanojr/mylicenses?style=plastic)
-![Badge](https://img.shields.io/github/license/humbertoromanojr/mylicenses?style=plastic)
-![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fmylicenses)
+![Badge](https://img.shields.io/github/issues/humbertoromanojr/cryptocoins?style=plastic)
+![Badge](https://img.shields.io/github/forks/humbertoromanojr/cryptocoins?style=plastic)
+![Badge](https://img.shields.io/github/stars/humbertoromanojr/cryptocoins?style=plastic)
+![Badge](https://img.shields.io/github/license/humbertoromanojr/cryptocoins?style=plastic)
+![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fcryptocoins)
 
 
 ## About Project
@@ -23,24 +23,26 @@ TEST FRONTEND
 
 
 ## FRONT-END
+
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 -   [ReactJS](https://reactjs.org/) :sparkling_heart:
+-   [TypeScript](https://www.typescriptlang.org/)
 -   [React Router](https://github.com/ReactTraining/react-router)
 -   [Styled components](https://www.styled-components.com/)
 -   [Axios](https://github.com/axios/axios)
 -   [History](https://www.npmjs.com/package/history)
 -   [React Toastify](https://fkhadra.github.io/react-toastify/)
--   [TypeScript](https://www.typescriptlang.org/)
 -   [Unform](https://github.com/Rocketseat/unform)
 -   [Date-fns](https://date-fns.org/)
 -   [Material UI](https://material-ui.com/)
 -   [React Icons](https://react-icons.github.io/react-icons/)
 
 
-> Note: Nem todas as bibliotecas eu usei nesse projeto, mais tem em outros projetos aqui mesmo no github, tenho exemplos como por exemplo o gympoint :ok_hand:.
+> Note: Nem todas as bibliotecas nesse projeto eu mencionei acima, mas tem em outros projetos aqui mesmo no github, tenho exemplos como por exemplo o gympoint :ok_hand:.
 
 
 ## Instalation
+
 :ballot_box_with_check: Para clonar o projeto
 `git clone https://github.com/humbertoromanojr/`
 
