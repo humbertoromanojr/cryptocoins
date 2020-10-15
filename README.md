@@ -56,6 +56,7 @@ TEST FRONTEND
 ## Sources
 
 - [ModalContext](https://nainacodes.com/blog/create-an-accessible-and-reusable-react-modal)
+- [Favicon.ico](https://99designs.com.br/other-art-illustration/contests/simple-very-straight-forward-d-gold-coin-animation-438878)
 
 
 ## Demonstration
